@@ -1,0 +1,4 @@
+discord.py @ git+https://github.com/Rapptz/discord.py.git@e0341c9ef25c0093bff991ff09c87dba0414e58c
+Levenshtein==0.19.2
+python-dotenv==0.20.0
+thefuzz==0.19.0
