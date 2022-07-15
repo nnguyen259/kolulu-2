@@ -45,7 +45,6 @@ class KoluluCharacter(commands.Cog):
         )
 
     @app_commands.command()
-    @app_commands.guilds(os.getenv("MY_GUILD"))
     @commands.is_owner()
     async def charreload(self, interaction: discord.Interaction):
         """Data reload"""
